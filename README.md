@@ -1,5 +1,5 @@
 <h1 align="left">Hi 👋, I'm Kabileshvijay P R</h1>
-<h2 align="left">Web Developer</h2>
+<h3 align="left">Web Developer</h3>
 <p align="left">As a Web Developer, I possess strong expertise in both front-end and back-end technologies. I am highly skilled in developing websites using HTML, CSS, JavaScript, and other relevant programming languages. My passion for creating new and innovative stuff has driven me to constantly learn and adapt to new technologies, frameworks, and libraries to provide the best solutions.</p>
 
 <h3 align="left">Connect with me:</h3>
