@@ -23,56 +23,110 @@ I'm a passionate **Web Developer** with expertise in both front-end and back-end
 
 <div align="center">
 
-### 🚀 Frontend Development
-<p>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="React" width="50" height="50"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nextjs/nextjs-original.svg" alt="Next.js" width="50" height="50"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="50" height="50"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="TypeScript" width="50" height="50"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="HTML5" width="50" height="50"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="CSS3" width="50" height="50"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tailwindcss/tailwindcss-plain.svg" alt="Tailwind CSS" width="50" height="50"/>
-</p>
-
-### ⚙️ Backend Development
-<p>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="Node.js" width="50" height="50"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="Express.js" width="50" height="50"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="PHP" width="50" height="50"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="50" height="50"/>
-</p>
-
-### 🗄️ Databases
-<p>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="MySQL" width="50" height="50"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="MongoDB" width="50" height="50"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/firebase/firebase-plain-wordmark.svg" alt="Firebase" width="50" height="50"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/supabase/supabase-original.svg" alt="Supabase" width="50" height="50"/>
-</p>
-
-### 🎨 Design & Tools
-<p>
-  <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="Figma" width="50" height="50"/>
-  <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="Postman" width="50" height="50"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg" alt="VS Code" width="50" height="50"/>
-</p>
-
-### 🔧 Development Tools
-<p>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original-wordmark.svg" alt="Git" width="50" height="50"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="Docker" width="50" height="50"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="Linux" width="50" height="50"/>
-</p>
-
-### 💻 Programming Languages
-<p>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="C" width="50" height="50"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="Java" width="50" height="50"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="50" height="50"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="TypeScript" width="50" height="50"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="50" height="50"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="PHP" width="50" height="50"/>
-</p>
+<table>
+<tr>
+<td align="center" width="96">
+<img src="https://skillicons.dev/icons?i=react" width="48" height="48" alt="React" />
+<br>React
+</td>
+<td align="center" width="96">
+<img src="https://skillicons.dev/icons?i=nextjs" width="48" height="48" alt="Next.js" />
+<br>Next.js
+</td>
+<td align="center" width="96">
+<img src="https://skillicons.dev/icons?i=typescript" width="48" height="48" alt="TypeScript" />
+<br>TypeScript
+</td>
+<td align="center" width="96">
+<img src="https://skillicons.dev/icons?i=javascript" width="48" height="48" alt="JavaScript" />
+<br>JavaScript
+</td>
+<td align="center" width="96">
+<img src="https://skillicons.dev/icons?i=tailwind" width="48" height="48" alt="Tailwind CSS" />
+<br>Tailwind CSS
+</td>
+<td align="center" width="96">
+<img src="https://skillicons.dev/icons?i=nodejs" width="48" height="48" alt="Node.js" />
+<br>Node.js
+</td>
+</tr>
+<tr>
+<td align="center" width="96">
+<img src="https://skillicons.dev/icons?i=express" width="48" height="48" alt="Express.js" />
+<br>Express.js
+</td>
+<td align="center" width="96">
+<img src="https://skillicons.dev/icons?i=python" width="48" height="48" alt="Python" />
+<br>Python
+</td>
+<td align="center" width="96">
+<img src="https://skillicons.dev/icons?i=mongodb" width="48" height="48" alt="MongoDB" />
+<br>MongoDB
+</td>
+<td align="center" width="96">
+<img src="https://skillicons.dev/icons?i=mysql" width="48" height="48" alt="MySQL" />
+<br>MySQL
+</td>
+<td align="center" width="96">
+<img src="https://skillicons.dev/icons?i=firebase" width="48" height="48" alt="Firebase" />
+<br>Firebase
+</td>
+<td align="center" width="96">
+<img src="https://skillicons.dev/icons?i=supabase" width="48" height="48" alt="Supabase" />
+<br>Supabase
+</td>
+</tr>
+<tr>
+<td align="center" width="96">
+<img src="https://skillicons.dev/icons?i=figma" width="48" height="48" alt="Figma" />
+<br>Figma
+</td>
+<td align="center" width="96">
+<img src="https://skillicons.dev/icons?i=postman" width="48" height="48" alt="Postman" />
+<br>Postman
+</td>
+<td align="center" width="96">
+<img src="https://skillicons.dev/icons?i=vscode" width="48" height="48" alt="VS Code" />
+<br>VS Code
+</td>
+<td align="center" width="96">
+<img src="https://skillicons.dev/icons?i=git" width="48" height="48" alt="Git" />
+<br>Git
+</td>
+<td align="center" width="96">
+<img src="https://skillicons.dev/icons?i=docker" width="48" height="48" alt="Docker" />
+<br>Docker
+</td>
+<td align="center" width="96">
+<img src="https://skillicons.dev/icons?i=linux" width="48" height="48" alt="Linux" />
+<br>Linux
+</td>
+</tr>
+<tr>
+<td align="center" width="96">
+<img src="https://skillicons.dev/icons?i=c" width="48" height="48" alt="C" />
+<br>C
+</td>
+<td align="center" width="96">
+<img src="https://skillicons.dev/icons?i=java" width="48" height="48" alt="Java" />
+<br>Java
+</td>
+<td align="center" width="96">
+<img src="https://skillicons.dev/icons?i=php" width="48" height="48" alt="PHP" />
+<br>PHP
+</td>
+<td align="center" width="96">
+<img src="https://skillicons.dev/icons?i=html" width="48" height="48" alt="HTML5" />
+<br>HTML5
+</td>
+<td align="center" width="96">
+<img src="https://skillicons.dev/icons?i=css" width="48" height="48" alt="CSS3" />
+<br>CSS3
+</td>
+<td align="center" width="96">
+</td>
+</tr>
+</table>
 
 </div>
 
@@ -110,34 +164,31 @@ const kabileshvijay = {
 };
 ```
 
-## 💡 Skills & Expertise
+## 🌟 What I'm Working On
 
-<div align="center">
+```javascript
+const kabileshvijay = {
+    currentlyLearning: ["React.js", "Next.js", "TypeScript", "Node.js"],
+    askMeAbout: ["Web Development", "Frontend", "Backend", "UI/UX", "Database Design"],
+    technologies: {
+        frontEnd: ["React", "Next.js", "TypeScript", "Tailwind CSS", "HTML5", "CSS3"],
+        backEnd: ["Node.js", "Express.js", "PHP", "Python"],
+        databases: ["MySQL", "MongoDB", "Firebase", "Supabase"],
+        tools: ["Git", "Docker", "VS Code", "Figma", "Postman", "Linux"]
+    },
+    currentGoals: [
+        "🚀 Building full-stack applications with React & Node.js",
+        "📱 Exploring modern web technologies",
+        "🎨 Creating seamless user experiences",
+        "📊 Learning database optimization"
+    ],
+    funFact: "I believe great code is like poetry - it should be beautiful and meaningful!"
+};
+```
 
-| **Category** | **Technologies** |
-|:---:|:---:|
-| **Frontend** | React.js, Next.js, JavaScript, TypeScript, HTML5, CSS3, Tailwind CSS |
-| **Backend** | Node.js, Express.js, PHP, Python |
-| **Databases** | MySQL, MongoDB, Firebase, Supabase |
-| **Tools** | Git, Docker, VS Code, Postman, Linux |
-| **Design** | Figma, UI/UX Design |
-| **Languages** | C, Java, JavaScript, TypeScript, PHP, Python |
+## 🤝 Let's Connect!
 
-</div>
-
-## 🎯 Development Philosophy
-
-> "Clean code always looks like it was written by someone who cares."
-
-- 🔍 **Problem Solver**: Love tackling complex challenges with elegant solutions
-- 🎨 **Design Focused**: Believe in creating beautiful, user-friendly interfaces  
-- 📚 **Continuous Learner**: Always exploring new technologies and best practices
-- 🤝 **Team Player**: Enjoy collaborating and sharing knowledge with fellow developers
-
-## 🤝 Let's Connect & Collaborate!
-
-<div align="center">
-  
+<p align="center">
   <a href="https://www.linkedin.com/in/kabileshvijay" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
@@ -147,18 +198,7 @@ const kabileshvijay = {
   <a href="https://github.com/kabileshvijay" target="_blank">
     <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
   </a>
-  
-</div>
-
-<div align="center">
-  
-  ### 🌟 Open for:
-  - 💼 **Collaboration** on exciting web development projects
-  - 🚀 **Freelance** opportunities  
-  - 📚 **Knowledge sharing** and tech discussions
-  - 🎯 **Internship** and **Full-time** opportunities
-  
-</div>
+</p>
 
 <div align="center">
   
