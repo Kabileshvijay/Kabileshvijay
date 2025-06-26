@@ -13,11 +13,7 @@ I'm a passionate **Web Developer** with expertise in both front-end and back-end
 - 🔭 I'm currently learning **React.js**
 - 💡 I enjoy creating new and innovative projects
 - 🎯 Always adapting to emerging technologies and frameworks
-- 📍 Based in India
-
-## 🏆 Achievements
-
-🥈 **Secured Second Prize** in the **Frontend Frenzy** event organized by the CodeCircle club at **Bannari Amman Institute of Technology**
+- 🥈 **Secured Second Prize** in the **Frontend Frenzy**
 
 ## 🛠️ Technology Stack
 
@@ -25,108 +21,61 @@ I'm a passionate **Web Developer** with expertise in both front-end and back-end
 
 <table>
 <tr>
-<td align="center" width="96">
-<img src="https://skillicons.dev/icons?i=react" width="48" height="48" alt="React" />
-<br>React
-</td>
-<td align="center" width="96">
-<img src="https://skillicons.dev/icons?i=nextjs" width="48" height="48" alt="Next.js" />
-<br>Next.js
-</td>
-<td align="center" width="96">
-<img src="https://skillicons.dev/icons?i=typescript" width="48" height="48" alt="TypeScript" />
-<br>TypeScript
-</td>
-<td align="center" width="96">
-<img src="https://skillicons.dev/icons?i=javascript" width="48" height="48" alt="JavaScript" />
-<br>JavaScript
-</td>
-<td align="center" width="96">
-<img src="https://skillicons.dev/icons?i=tailwind" width="48" height="48" alt="Tailwind CSS" />
-<br>Tailwind CSS
-</td>
-<td align="center" width="96">
-<img src="https://skillicons.dev/icons?i=nodejs" width="48" height="48" alt="Node.js" />
-<br>Node.js
-</td>
-</tr>
-<tr>
-<td align="center" width="96">
-<img src="https://skillicons.dev/icons?i=express" width="48" height="48" alt="Express.js" />
-<br>Express.js
-</td>
-<td align="center" width="96">
-<img src="https://skillicons.dev/icons?i=python" width="48" height="48" alt="Python" />
-<br>Python
-</td>
-<td align="center" width="96">
-<img src="https://skillicons.dev/icons?i=mongodb" width="48" height="48" alt="MongoDB" />
-<br>MongoDB
-</td>
-<td align="center" width="96">
-<img src="https://skillicons.dev/icons?i=mysql" width="48" height="48" alt="MySQL" />
-<br>MySQL
-</td>
-<td align="center" width="96">
-<img src="https://skillicons.dev/icons?i=firebase" width="48" height="48" alt="Firebase" />
-<br>Firebase
-</td>
-<td align="center" width="96">
-<img src="https://skillicons.dev/icons?i=supabase" width="48" height="48" alt="Supabase" />
-<br>Supabase
-</td>
-</tr>
-<tr>
-<td align="center" width="96">
-<img src="https://skillicons.dev/icons?i=figma" width="48" height="48" alt="Figma" />
-<br>Figma
-</td>
-<td align="center" width="96">
-<img src="https://skillicons.dev/icons?i=postman" width="48" height="48" alt="Postman" />
-<br>Postman
-</td>
-<td align="center" width="96">
-<img src="https://skillicons.dev/icons?i=vscode" width="48" height="48" alt="VS Code" />
-<br>VS Code
-</td>
-<td align="center" width="96">
-<img src="https://skillicons.dev/icons?i=git" width="48" height="48" alt="Git" />
-<br>Git
-</td>
-<td align="center" width="96">
-<img src="https://skillicons.dev/icons?i=docker" width="48" height="48" alt="Docker" />
-<br>Docker
-</td>
-<td align="center" width="96">
-<img src="https://skillicons.dev/icons?i=linux" width="48" height="48" alt="Linux" />
-<br>Linux
-</td>
-</tr>
-<tr>
-<td align="center" width="96">
-<img src="https://skillicons.dev/icons?i=c" width="48" height="48" alt="C" />
-<br>C
-</td>
-<td align="center" width="96">
-<img src="https://skillicons.dev/icons?i=java" width="48" height="48" alt="Java" />
-<br>Java
-</td>
-<td align="center" width="96">
-<img src="https://skillicons.dev/icons?i=php" width="48" height="48" alt="PHP" />
-<br>PHP
-</td>
-<td align="center" width="96">
-<img src="https://skillicons.dev/icons?i=html" width="48" height="48" alt="HTML5" />
+<td align="center" width="100">
+<img src="https://skillicons.dev/icons?i=html" width="45" alt="HTML5" />
 <br>HTML5
 </td>
-<td align="center" width="96">
-<img src="https://skillicons.dev/icons?i=css" width="48" height="48" alt="CSS3" />
+<td align="center" width="100">
+<img src="https://skillicons.dev/icons?i=css" width="45" alt="CSS3" />
 <br>CSS3
 </td>
-<td align="center" width="96">
+<td align="center" width="100">
+<img src="https://skillicons.dev/icons?i=javascript" width="45" alt="JavaScript" />
+<br>JavaScript
+</td>
+<td align="center" width="100">
+<img src="https://skillicons.dev/icons?i=mysql" width="45" alt="MySQL" />
+<br>MySQL
+</td>
+</tr>
+<tr>
+<td align="center" width="100">
+<img src="https://skillicons.dev/icons?i=c" width="45" alt="C" />
+<br>C
+</td>
+<td align="center" width="100">
+<img src="https://skillicons.dev/icons?i=java" width="45" alt="Java" />
+<br>Java
+</td>
+<td align="center" width="100">
+<img src="https://skillicons.dev/icons?i=php" width="45" alt="PHP" />
+<br>PHP
+</td>
+<td align="center" width="100">
+<img src="https://skillicons.dev/icons?i=react" width="45" alt="React" />
+<br>React
+</td>
+</tr>
+<tr>
+<td align="center" width="100">
+<img src="https://skillicons.dev/icons?i=mongodb" width="45" alt="MongoDB" />
+<br>MongoDB
+</td>
+<td align="center" width="100">
+<img src="https://skillicons.dev/icons?i=figma" width="45" alt="Figma" />
+<br>Figma
+</td>
+<td align="center" width="100">
+<img src="https://skillicons.dev/icons?i=vscode" width="45" alt="VS Code" />
+<br>VS Code
+</td>
+<td align="center" width="100">
+<img src="https://skillicons.dev/icons?i=firebase" width="45" alt="Firebase" />
+<br>Firebase
 </td>
 </tr>
 </table>
+
 
 </div>
 
@@ -141,50 +90,6 @@ I'm a passionate **Web Developer** with expertise in both front-end and back-end
   ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=kabileshvijay&layout=compact&theme=radical&hide_border=true)
   
 </div>
-
-## 🌟 What I'm Working On
-
-```javascript
-const kabileshvijay = {
-    currentlyLearning: ["React.js", "Next.js", "TypeScript", "Node.js"],
-    askMeAbout: ["Web Development", "Frontend", "Backend", "UI/UX", "Database Design"],
-    technologies: {
-        frontEnd: ["React", "Next.js", "TypeScript", "Tailwind CSS", "HTML5", "CSS3"],
-        backEnd: ["Node.js", "Express.js", "PHP", "Python"],
-        databases: ["MySQL", "MongoDB", "Firebase", "Supabase"],
-        tools: ["Git", "Docker", "VS Code", "Figma", "Postman", "Linux"]
-    },
-    currentGoals: [
-        "🚀 Building full-stack applications with React & Node.js",
-        "📱 Exploring modern web technologies",
-        "🎨 Creating seamless user experiences",
-        "📊 Learning database optimization"
-    ],
-    funFact: "I believe great code is like poetry - it should be beautiful and meaningful!"
-};
-```
-
-## 🌟 What I'm Working On
-
-```javascript
-const kabileshvijay = {
-    currentlyLearning: ["React.js", "Next.js", "TypeScript", "Node.js"],
-    askMeAbout: ["Web Development", "Frontend", "Backend", "UI/UX", "Database Design"],
-    technologies: {
-        frontEnd: ["React", "Next.js", "TypeScript", "Tailwind CSS", "HTML5", "CSS3"],
-        backEnd: ["Node.js", "Express.js", "PHP", "Python"],
-        databases: ["MySQL", "MongoDB", "Firebase", "Supabase"],
-        tools: ["Git", "Docker", "VS Code", "Figma", "Postman", "Linux"]
-    },
-    currentGoals: [
-        "🚀 Building full-stack applications with React & Node.js",
-        "📱 Exploring modern web technologies",
-        "🎨 Creating seamless user experiences",
-        "📊 Learning database optimization"
-    ],
-    funFact: "I believe great code is like poetry - it should be beautiful and meaningful!"
-};
-```
 
 ## 🤝 Let's Connect!
 
