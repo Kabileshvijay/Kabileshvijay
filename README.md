@@ -1,12 +1,99 @@
-<h1 align="left">Hi 👋, I'm Kabileshvijay P R</h1>
-<h3 align="left">Web Developer</h3>
-<p align="left">As a Web Developer, I possess strong expertise in both front-end and back-end technologies. I am highly skilled in developing websites using HTML, CSS, JavaScript, and other relevant programming languages. My passion for creating new and innovative stuff has driven me to constantly learn and adapt to new technologies, frameworks, and libraries to provide the best solutions.</p>
+# Hi there! 👋 I'm Kabileshvijay P R
 
+<div align="center">
+  
+  ![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=2E96F7&center=true&vCenter=true&width=435&lines=Full+Stack+Web+Developer;Passionate+Problem+Solver;Always+Learning+New+Technologies)
+  
+</div>
 
-<h3 align="left">Connect with me:</h3>
+## 🚀 About Me
+
+I'm a passionate **Web Developer** with expertise in both front-end and back-end technologies. I love creating innovative digital solutions and constantly exploring new technologies to build amazing user experiences.
+
+- 🔭 I'm currently learning **React.js**
+- 💡 I enjoy creating new and innovative projects
+- 🎯 Always adapting to emerging technologies and frameworks
+- 📍 Based in India
+
+## 🏆 Achievements
+
+🥈 **Secured Second Prize** in the **Frontend Frenzy** event organized by the CodeCircle club at **Bannari Amman Institute of Technology**
+
+## 🛠️ Tech Stack
+
+### Languages
 <p align="left">
-<a href="https://www.linkedin.com/in/kabileshvijay" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="kabileshvijaypr" height="30" width="40" /></a>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="C" width="45" height="45"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="Java" width="45" height="45"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="HTML5" width="45" height="45"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="CSS3" width="45" height="45"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="45" height="45"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="PHP" width="45" height="45"/>
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://www.php.net" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p>
+### Frameworks & Libraries
+<p align="left">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="React" width="45" height="45"/>
+</p>
+
+### Databases
+<p align="left">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="MySQL" width="45" height="45"/>
+</p>
+
+### Design Tools
+<p align="left">
+  <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="Figma" width="45" height="45"/>
+</p>
+
+## 📊 GitHub Stats
+
+<div align="center">
+  
+  ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=kabileshvijay&show_icons=true&theme=radical&hide_border=true&count_private=true)
+  
+  ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=kabileshvijay&theme=radical&hide_border=true)
+  
+  ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=kabileshvijay&layout=compact&theme=radical&hide_border=true)
+  
+</div>
+
+## 🌟 Current Focus
+
+```javascript
+const kabileshvijay = {
+    currentlyLearning: ["React.js", "Advanced JavaScript"],
+    askMeAbout: ["Web Development", "Frontend", "Backend", "UI/UX"],
+    technologies: {
+        frontEnd: ["HTML", "CSS", "JavaScript", "React"],
+        backEnd: ["PHP", "MySQL"],
+        design: ["Figma"],
+        languages: ["C", "Java", "PHP", "JavaScript"]
+    },
+    funFact: "I love turning ideas into reality through code!"
+};
+```
+
+## 🤝 Let's Connect!
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/kabileshvijay" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  </a>
+</p>
+
+<div align="center">
+  
+  ### ✨ "Code is like humor. When you have to explain it, it's bad." ✨
+  
+  ![Profile Views](https://komarev.com/ghpvc/?username=kabileshvijay&color=blueviolet&style=flat-square&label=Profile+Views)
+  
+</div>
+
+---
+
+<div align="center">
+  
+  **Thanks for visiting my profile! Feel free to reach out if you'd like to collaborate on exciting projects! 🚀**
+  
+</div>
