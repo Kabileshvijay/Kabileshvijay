@@ -85,7 +85,7 @@ I'm a passionate **Web Developer** with expertise in both front-end and back-end
   
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Kabileshvijay&show_icons=true&theme=radical&hide_border=true&cache_seconds=1800)
 
-![](https://nirzak-streak-stats.vercel.app/?user=Kabileshvijay&theme=chartreuse-dark&hide_border=false)<br/>
+![GitHub Streak](https://nirzak-streak-stats.vercel.app/?user=Kabileshvijay&theme=radical&hide_border=true)
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Kabileshvijay&layout=compact&theme=radical&hide_border=true)
 
